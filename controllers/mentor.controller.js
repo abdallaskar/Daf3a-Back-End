@@ -17,6 +17,7 @@ import User from "../models/User.js";
 
 export const getMentorsController = async (req, res) => {
   try {
+    console.log("📌 /api/mentors route hit");
     const mentors = await getMentors();
     return res.status(200).json(mentors);
   } catch (error) {
