@@ -52,7 +52,7 @@ app.use("/api/video", videoRouter);
 app.use("/api", paymentRouter);
 
 app.get("/", (req, res) => {
-  res.json({ message: "Seerver API", status: "running" });
+  res.json({ message: "Server API is running and ready to accept requests", status: "running" });
 });
 
 // Multer error handler (for file upload errors)
