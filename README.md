@@ -8,6 +8,19 @@
 🚀 **Live Demo:** [daf3a.back-end](https://daf3a-back-end.onrender.com)  
 
 ---
+## 🧪 Test Accounts
+
+You can use these demo credentials to log in and explore the platform:
+
+### 👨‍🏫 Mentor Account
+- **Email:** mentor1@example.com  
+- **Password:** Test1234  
+
+### 👨‍🎓 Student Account
+- **Email:** abdalla@example.com  
+- **Password:** Test1234  
+
+---
 
 ## 👨‍💻 Prepared By (Graduation Project - ITI)
 
